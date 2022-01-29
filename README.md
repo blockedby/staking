@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+# Basic staking contract with tests and tasks
+wrapped token 0xCcc64208173c7738F599848EFDd816c67b6c63f9
+KCNC token 0x58f1ac6d806e4f15064b61b118e7514cfade6cec
+https://rinkeby.etherscan.io/tx/0x0cc73c78ef43f0d7e433c4ab6795fdc6f2e9a5c56b73057a46049eae8dcdd2e3
+contract verified at https://rinkeby.etherscan.io/address/0xfb9709c3be3dc236da564250d4259b78f1c66e9a
